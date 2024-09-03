@@ -23,3 +23,37 @@ Este repostório contém o codigo fonte do **Sistema de Adoção de Animais**, u
 - **SQLite:** Banco de dados utilizado para armazenamento das informações (configurável para outros bancos de dados com PostgreSQL).
 
 - **JavaScript:** Funcionalidades dinâmicas e interativas na interface do usuário.
+
+# Como Executar o Projeto:
+
+1. Clone o repositório:
+git clone https://github.com/seu-usuario/sistema-adocao-animais.git
+
+2. Navegue até o diretório do projeto:
+cd sistema-adocao-animais
+
+3. Crie a ative o ambiente virtual:
+python -m venv venv
+source venv/bin/activate  # No Windows use `venv\Scripts\activate`
+
+4. Instale as dependências:
+pip install -r requirements.txt
+
+5. Aplique as migrações para criar o banco de dados:
+python manage.py migrate
+
+6. Crie um superusuário para acessar o admin:
+python manage.py createsuperuser
+
+7. Inicie o servidor de desenvolvimento:
+python manage.py runserver
+
+8. Acesse a aplicação em http://localhost:8000/
+
+# Licença:
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
+
+# Autor
+
+* **Jadson Silva** - https://www.linkedin.com/in/jadson-jose-silva/ | https://github.com/Jadson-Jose/AdoteSE
