@@ -4,8 +4,8 @@ Este repostório contém o codigo fonte do **Sistema de Adoção de Animais**, u
 
 # Funcionalidades Principais:
 
-* Cadastro de Animais: Permite que abrigos registrem animais disponíveis para adoção, incluindo informações como nome, espécie, raça, idade, porte e fotos.
+* **Cadastro de Animais:** Permite que abrigos registrem animais disponíveis para adoção, incluindo informações como nome, espécie, raça, idade, porte e fotos.
 
-* Gerenciamento de Adotantes: Sistema para cadastro e gerenciamento dos adotantes, com informações de contato e histórico de adoções.
+* **Gerenciamento de Adotantes:** Sistema para cadastro e gerenciamento dos adotantes, com informações de contato e histórico de adoções.
 
-* Processo de Adoção: Funcionalidade para registrar adoções, vinculando animais e adotantes, gerando um histórico das adoções reaizadas.
+* **Processo de Adoção:** Funcionalidade para registrar adoções, vinculando animais e adotantes, gerando um histórico das adoções reaizadas.
