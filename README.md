@@ -34,7 +34,7 @@ Este repostório contém o codigo fonte do **Sistema de Adoção de Animais**, u
 
 3. Crie a ative o ambiente virtual:
    python -m venv venv
-   source venv/bin/activate 
+   source venv/bin/activate
    No Windows use `venv\Scripts\activate`
 
 4. Instale as dependências:
