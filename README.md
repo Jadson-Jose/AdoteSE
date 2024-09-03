@@ -1,6 +1,6 @@
 # Sistema de Adoção de Animais
 
-Este repostório contém o codigo fonte do ## Sistema de Adoção de Animais, um projeto desenvolvido com Django como parte do Trabalho de Conclusão de Curso (TCC) em Análise e Desenvolvimento de Sistemas. O objetivo deste sistema é facilitar a adoção de animais de estimação, conectando abrigos e adotantes em uma plataforma intuitova e eficiente.
+Este repostório contém o codigo fonte do **Sistema de Adoção de Animais**, um projeto desenvolvido com Django como parte do Trabalho de Conclusão de Curso (TCC) em Análise e Desenvolvimento de Sistemas. O objetivo deste sistema é facilitar a adoção de animais de estimação, conectando abrigos e adotantes em uma plataforma intuitova e eficiente.
 
 # Funcionalidades Principais:
 
